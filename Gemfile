@@ -10,3 +10,6 @@ group :test, :remote_test do
   gem 'jwe'
   gem 'mechanize'
 end
+
+
+gem 'byebug'
